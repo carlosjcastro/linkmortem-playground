@@ -5,7 +5,7 @@ This repository keeps a few dead links on purpose, so anyone can watch [Linkmort
 ## Contents
 
 - [Getting started](#getting-started)
-- [Install](#install)
+- [Install](#installation)
 - [Space Shooter tutorial](#space-shooter-tutorial)
 - [Links that still work](#links-that-still-work)
 
@@ -19,7 +19,7 @@ Nothing to install. The section above links to `#install`, but this heading is c
 
 ## Space Shooter tutorial
 
-Unity retired its classic tutorial, so this link is dead: [Space Shooter](https://unity3d.com/ru/learn/tutorials/s/space-shooter-tutorial). The Wayback Machine still remembers it.
+Unity retired its classic tutorial, so this link is dead: [Space Shooter](https://web.archive.org/web/20191016044849/https://unity3d.com/ru/learn/tutorials/s/space-shooter-tutorial). The Wayback Machine still remembers it.
 
 ## Links that still work
 
