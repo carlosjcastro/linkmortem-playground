@@ -1,19 +1,27 @@
-# SpaceShooter
-unity, help wanted, good first issue
+# Linkmortem playground
 
-# Built With
-used unity 5.6.3
+This repository keeps a few dead links on purpose, so anyone can watch [Linkmortem](https://linkmortem.tech) find them, explain why they died and propose the fix. Every Monday the Linkmortem Action scans it, keeps one issue up to date and opens one pull request with the replacements it can prove.
 
-# Getting Started
-Step 1. Save project on pc.
+## Contents
 
-Step 2. Open unity version >= 5.6.3 and open project and open the scene "MenuScene" (directory scenes) 
+- [Getting started](#getting-started)
+- [Install](#install)
+- [Space Shooter tutorial](#space-shooter-tutorial)
+- [Links that still work](#links-that-still-work)
 
-# License
-The project is based on the tutorial "SpaceShooter" by unity - https://unity3d.com/ru/learn/tutorials/s/space-shooter-tutorial, 
+## Getting started
 
-but it does not copy them.
+Paste this repository at [linkmortem.tech](https://linkmortem.tech), or select "Or try it on the demo repository" on the home page.
 
-The project uses only freeware files.
+## Installation
 
-The project is aimed at beginners in developing games for unity.
+Nothing to install. The section above links to `#install`, but this heading is called "Installation", so the table of contents points to a section that no longer exists.
+
+## Space Shooter tutorial
+
+Unity retired its classic tutorial, so this link is dead: [Space Shooter](https://unity3d.com/ru/learn/tutorials/s/space-shooter-tutorial). The Wayback Machine still remembers it.
+
+## Links that still work
+
+- [Internet Archive](https://archive.org)
+- [Gemma](https://ai.google.dev/gemma)
